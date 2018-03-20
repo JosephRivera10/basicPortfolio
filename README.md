@@ -5,6 +5,8 @@ This application implements basic HTML and CSS to create a portfolio page. The g
 
 #### To run
   git clone git@github.com:JosephRivera10/basicPortfolio.git
+  
   cd basicPortfolio
+  
   open in browser
 
